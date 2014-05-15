@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcmDebugger", "tcmdebugger\TcmDebugger.csproj", "{8AA8C50A-B392-44EE-A279-3439A442D133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcmDependencies", "TcmDependencies\TcmDependencies.csproj", "{7369A097-B956-4388-BDE0-F986BFE3EEFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AA8C50A-B392-44EE-A279-3439A442D133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA8C50A-B392-44EE-A279-3439A442D133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA8C50A-B392-44EE-A279-3439A442D133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA8C50A-B392-44EE-A279-3439A442D133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7369A097-B956-4388-BDE0-F986BFE3EEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7369A097-B956-4388-BDE0-F986BFE3EEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7369A097-B956-4388-BDE0-F986BFE3EEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7369A097-B956-4388-BDE0-F986BFE3EEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
